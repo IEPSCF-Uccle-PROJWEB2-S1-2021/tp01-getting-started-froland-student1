@@ -9,23 +9,22 @@
 
 ## Nom
 
-Skywalker
+Roland
 
 ## Prénom
 
-Luke
+François
 
 ## Courte présentation
 
 Bonjour,
 
-Je m'appelle Luke.
-J'aime bien piloter des vaisseaux spatiaux en mode manuel.
-Et je aussi parler aux robots.
-Grand voyageur, j'ai visité plusieurs planètes.
-Malheureusement, mes voyages ne se terminent pas toujours bien.
+Je m'appelle François ROLAND.
+Je suis ingénieur civil en informatique et gestion.
 
-Je suis tantôt impulsif, tantôt grognon.
-Et j'ai une famille un peu compliquée.
+J'adore programmer et enseigner.
 
-J'ai hâte d'apprendre à programmer en JavaScript.
+Je suis sévère et exigeant mais j'essaie toujours d'être juste.
+J'attends la même chose de mes étudiants.
+
+J'espère que vous allez apprécier les différentes activités d'apprentissage que je vous ai préparées.
